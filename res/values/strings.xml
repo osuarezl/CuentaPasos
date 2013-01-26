@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CuentaPasos</string>
+    <string name="notification_subtitle">Tu acompañante al hacer ejercicio</string>
+
+    <string name="started">CuentaPasos iniciado.</string>
+    <string name="stopped">CuentaPasos detenido.</string>
+
+    <string name="steps">pasos</string>
+    <string name="kilometers">kilómetros</string>
+    <string name="miles">millas</string>
+    <string name="steps_per_minute">pasos/minutos</string>
+    <string name="kilometers_per_hour">kilómetros/hora</string>
+    <string name="miles_per_hour">millas/hora</string>
+    <string name="calories_burned">calorías quemadas</string>
+    <string name="centimeters">centímetros</string>
+    <string name="inches">pulgadas</string>
+    <string name="kilograms">kilos</string>
+    <string name="pounds">libras</string>
+
+    <string name="desired_pace">Ritmo deseado:</string>
+    <string name="desired_speed">Velocidad deseada:</string>
+
+    <string name="pause">Pausa</string>
+    <string name="resume">Continuar</string>
+    <string name="reset">Reiniciar</string>
+    
+    <!-- Settings -->
+    <string name="settings">Configuración</string>
+    <string name="activity_settings">Configuración de CuentaPasos</string>
+    <string name="steps_settings_title">Configuracón básica</string>
+    <string name="sensitivity_setting">Umbral de sensibilidad</string>
+    <string name="sensitivity_setting_details">Calibrar el sensor</string>
+    <string name="sensitivity_setting_title">Seleccionar el nivel de sensibilidad</string>
+    <string name="extra_high">extra alto</string>
+    <string name="very_high">muy alto</string>
+    <string name="high">alto</string>
+    <string name="higher">más alto</string>
+    <string name="medium">medio</string>
+    <string name="lower">más bajo</string>
+    <string name="low">bajo</string>
+    <string name="very_low">muy bajo</string>
+    <string name="extra_low">extra bajo</string>
+    <string name="operation_level_setting">Nivel operacional</string>
+    <string name="operation_level_setting_details">Seleccione el nivel que funcione mejor en su dispositivo</string>
+    <string name="operation_level_setting_title">Seleccione el nivel operacional</string>
+    <string name="run_in_background">Normal</string>
+    <string name="keep_screen_on">Mantener pantalla encendida</string>
+    <string name="wake_up">Despertar cuando se intente apagar la pantalla</string>
+    <string name="units_setting">Unidades</string>
+    <string name="units_setting_details">Sistema US o SI</string>
+    <string name="units_setting_title">Seleccione el tipo estandar a usar</string>
+    <string name="units_metric">SI</string>
+    <string name="units_imperial">US</string>
+    <string name="step_length_setting">Tamaño de cada paso</string>
+    <string name="step_length_setting_details">Para calculo de calorias, velocidad y distancia</string>
+    <string name="step_length_setting_title">Ingrese el tamaño de sus pasos</string>
+    <string name="body_weight_setting">Peso</string>
+    <string name="body_weight_setting_details">Para el cálculo de calorías</string>
+    <string name="body_weight_setting_title">Ingrese su peso</string>
+    <string name="exercise_type_setting">Tipo de ejercicio</string>
+    <string name="exercise_type_setting_details">Para el cálculo de calorías</string>
+    <string name="exercise_type_setting_title">Seleccione el tipo de ejercicio</string>
+    <string name="exercise_type_running">correr</string>
+    <string name="exercise_type_walking">caminata</string>
+    <string name="maintain_setting">mantener estado</string>
+    <string name="maintain_setting_details">Manteniendo el ritmo o la velocidad</string>
+    <string name="maintain_setting_title">Mantener:</string>
+    <string name="maintain_nothing">nada</string>
+    <string name="maintain_pace">ritmo</string>
+    <string name="maintain_speed">velocidad</string>
+    <string name="voice_settings_title">Voz</string>
+    <string name="voice_setting">Habla</string>
+    <string name="voice_setting_details">Habilitar las notificaciones audibles</string>
+    <string name="speaking_interval_setting">Intervalo</string>
+    <string name="speaking_interval_setting_details">Intervalo de notificacion</string>
+    <string name="interval_15_seconds">15 segundos</string>
+    <string name="interval_30_seconds">30 segundos</string>
+    <string name="interval_1_minute">1 minuto</string>
+    <string name="interval_2_minutes">2 minutos</string>
+    <string name="interval_5_minutes">5 minutos</string>
+    <string name="interval_10_minutes">10 minutos</string>
+    <string name="tell_what">Datos a notificar</string>
+    <string name="tell_steps_setting">Pasos</string>
+    <string name="tell_steps_setting_details"></string>
+    <string name="tell_pace_setting">Ritmo</string>
+    <string name="tell_pace_setting_details">pasos/minuto</string>
+    <string name="tell_distance_setting">Distancia</string>
+    <string name="tell_distance_setting_details">kilómetros o millas</string>
+    <string name="tell_speed_setting">Velocidad</string>
+    <string name="tell_speed_setting_details">km/h o mph</string>
+    <string name="tell_calories_setting">Calorías quemadas</string>
+    <string name="tell_calories_setting_details"></string>
+    <string name="tell_fasterslower_setting">Ajuste de velocidad</string>
+    <string name="tell_fasterslower_setting_details">Ayuda a mantener el ritmo o velocidad deseada</string>
+    <string name="incorrect_step_length">Formato incorrecto.</string>
+
+    <string name="quit">Salir</string>
+
+</resources>
